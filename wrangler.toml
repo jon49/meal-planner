@@ -1,0 +1,8 @@
+name = "meals"
+type = "javascript"
+account_id = "d4ab37209f0a88e719af2242aaeeca70"
+workers_dev = true
+route = ""
+zone_id = ""
+
+bucket = "./public"
